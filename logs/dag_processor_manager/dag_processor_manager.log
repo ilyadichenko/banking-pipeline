@@ -1,0 +1,783 @@
+[2026-09-27T11:49:48.222+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-09-27T11:49:48.225+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-09-27T11:49:48.225+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-09-27T11:49:48.226+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T11:49:48.227+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T11:54:48.726+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T11:54:48.730+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T11:59:49.283+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T11:59:49.288+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:04:49.873+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:04:49.879+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:09:50.543+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:09:50.550+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:14:51.431+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:14:51.439+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:19:52.416+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:19:52.421+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:24:53.287+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:24:53.293+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:39:48.153+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:39:48.158+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T12:58:57.146+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T12:58:57.151+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T13:29:05.982+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T13:29:05.987+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:01:30.557+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:01:30.559+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:15:18.084+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:15:18.092+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:20:18.818+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:20:18.824+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:25:19.737+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:25:19.746+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:30:20.076+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:30:20.079+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:35:20.586+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:35:20.594+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:40:21.030+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:40:21.036+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:45:21.238+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:45:21.245+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:50:21.622+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:50:21.629+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T14:55:21.664+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T14:55:21.676+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:00:22.251+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:00:22.258+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:05:22.724+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:05:22.726+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:10:23.390+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:10:23.398+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:15:23.954+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:15:23.962+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:20:24.128+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:20:24.136+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:25:24.565+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:25:24.570+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:30:24.754+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:30:24.761+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:35:25.057+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:35:25.065+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:40:25.352+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:40:25.358+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:45:26.284+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:45:26.292+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:50:26.683+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:50:26.688+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T15:55:27.144+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T15:55:27.152+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:00:27.184+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:00:27.191+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:05:27.963+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:05:27.972+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:10:28.613+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:10:28.620+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:15:29.146+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:15:29.151+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:20:29.815+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:20:29.825+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:25:30.303+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:25:30.308+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:30:30.833+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:30:30.838+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:35:31.387+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:35:31.394+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:40:32.073+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:40:32.082+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:45:32.899+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:45:32.907+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:50:33.602+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:50:33.610+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T16:55:34.167+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T16:55:34.174+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T17:00:34.671+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T17:00:34.678+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T17:09:38.194+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T17:09:38.195+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T17:26:13.335+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T17:26:13.341+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T18:15:10.341+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T18:15:10.348+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T18:20:10.751+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T18:20:10.754+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T18:37:48.247+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T18:37:48.249+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T19:16:08.442+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T19:16:08.443+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T19:43:45.928+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T19:43:45.930+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T19:59:43.085+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T19:59:43.085+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T20:15:23.321+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T20:15:23.323+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T20:32:11.183+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T20:32:11.184+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T20:48:39.200+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T20:48:39.202+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T21:21:27.123+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T21:21:27.124+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T21:54:03.313+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T21:54:03.314+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T22:09:33.352+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T22:09:33.354+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T22:26:26.260+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T22:26:26.261+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T22:42:50.567+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T22:42:50.569+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T22:55:51.796+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T22:55:51.798+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T23:12:07.994+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T23:12:07.995+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T23:28:54.800+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T23:28:54.802+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-27T23:52:22.879+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-27T23:52:22.881+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T00:08:19.354+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T00:08:19.356+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T00:25:00.220+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T00:25:00.223+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T00:56:54.416+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T00:56:54.418+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T01:15:59.897+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T01:15:59.900+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T01:20:59.900+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T01:20:59.904+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T01:47:35.900+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T01:47:35.902+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T02:11:30.347+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T02:11:30.348+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T02:19:39.404+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T02:19:39.405+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T02:51:43.259+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T02:51:43.263+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T03:32:25.152+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T03:32:25.154+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T03:59:47.286+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T03:59:47.289+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T04:34:26.106+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T04:34:26.107+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T05:00:51.558+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T05:00:51.559+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T05:05:51.594+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T05:05:51.601+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T05:11:04.400+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T05:11:04.407+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T05:33:58.485+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T05:33:58.488+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T06:07:07.769+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T06:07:07.771+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T06:41:06.825+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T06:41:06.827+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T07:08:27.151+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T07:08:27.153+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T07:42:26.261+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T07:42:26.262+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T08:09:07.318+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T08:09:07.319+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T08:59:01.277+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T08:59:01.279+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T09:44:05.434+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T09:44:05.436+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T10:02:12.591+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T10:02:12.593+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T11:12:06.067+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T11:12:06.069+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T11:28:46.319+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T11:28:46.322+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T12:13:18.062+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T12:13:18.063+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T12:47:04.113+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T12:47:04.114+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T13:14:11.982+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T13:14:11.984+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T13:31:35.379+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T13:31:35.380+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T14:15:06.096+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T14:15:06.098+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T14:30:40.370+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T14:30:40.372+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T15:05:08.561+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T15:05:08.562+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T15:16:30.625+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T15:16:30.626+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T16:08:39.860+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T16:08:39.864+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T16:17:11.587+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T16:17:11.588+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T16:50:16.549+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T16:50:16.550+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T17:18:23.323+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T17:18:23.325+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T18:19:05.401+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T18:19:05.405+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T18:36:04.465+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T18:36:04.472+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T19:28:43.921+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T19:28:43.927+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T20:20:10.538+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T20:20:10.540+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T20:37:17.640+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T20:37:17.641+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T21:44:01.888+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T21:44:01.892+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T22:18:39.768+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T22:18:39.769+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T22:52:09.561+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T22:52:09.562+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-28T23:50:09.667+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-28T23:50:09.671+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-29T00:05:47.694+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-29T00:05:47.695+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-29T01:00:08.042+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-29T01:00:08.043+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-29T01:17:43.766+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-29T01:17:43.767+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-29T01:29:46.425+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-29T01:29:46.429+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-29T01:46:28.794+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-09-29T01:46:28.796+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-09-29T01:46:52.978+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2026-10-20T12:33:22.554+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-10-20T12:33:22.555+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-10-20T12:33:22.557+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-10-20T12:33:22.558+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T12:33:22.565+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T12:38:23.050+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T12:38:23.057+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T12:43:23.571+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T12:43:23.577+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T12:48:24.194+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T12:48:24.201+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T12:53:24.804+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T12:53:24.811+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T12:58:25.764+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T12:58:25.767+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T13:03:26.419+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:03:26.426+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-10-20T13:08:26.954+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:08:26.967+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:08:41.138+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.54s           2026-10-20T13:08:27
+================================================================================
+[2026-10-20T13:09:11.193+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:08:58
+================================================================================
+[2026-10-20T13:09:41.471+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:09:28
+================================================================================
+[2026-10-20T13:10:11.771+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:09:58
+================================================================================
+[2026-10-20T13:10:42.198+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:10:29
+================================================================================
+[2026-10-20T13:11:12.550+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.29s           2026-10-20T13:10:59
+================================================================================
+[2026-10-20T13:11:43.056+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:11:29
+================================================================================
+[2026-10-20T13:12:13.387+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:12:00
+================================================================================
+[2026-10-20T13:12:43.879+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:12:30
+================================================================================
+[2026-10-20T13:13:14.174+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:13:01
+================================================================================
+[2026-10-20T13:13:27.293+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:13:27.300+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:13:44.636+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:13:31
+================================================================================
+[2026-10-20T13:14:14.949+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.22s           2026-10-20T13:14:02
+================================================================================
+[2026-10-20T13:14:45.394+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:14:32
+================================================================================
+[2026-10-20T13:15:15.707+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:15:02
+================================================================================
+[2026-10-20T13:15:46.191+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.29s           2026-10-20T13:15:33
+================================================================================
+[2026-10-20T13:16:16.482+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.28s           2026-10-20T13:16:03
+================================================================================
+[2026-10-20T13:16:47.029+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.27s           2026-10-20T13:16:34
+================================================================================
+[2026-10-20T13:17:17.555+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.26s           2026-10-20T13:17:04
+================================================================================
+[2026-10-20T13:17:48.047+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.31s           2026-10-20T13:17:35
+================================================================================
+[2026-10-20T13:18:18.362+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.27s           2026-10-20T13:18:05
+================================================================================
+[2026-10-20T13:18:27.447+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:18:27.457+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:18:48.856+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.28s           2026-10-20T13:18:35
+================================================================================
+[2026-10-20T13:19:19.162+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.32s           2026-10-20T13:19:06
+================================================================================
+[2026-10-20T13:19:49.710+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.29s           2026-10-20T13:19:36
+================================================================================
+[2026-10-20T13:20:20.187+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.30s           2026-10-20T13:20:07
+================================================================================
+[2026-10-20T13:20:50.471+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.25s           2026-10-20T13:20:37
+================================================================================
+[2026-10-20T13:21:20.926+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.32s           2026-10-20T13:21:07
+================================================================================
+[2026-10-20T13:21:51.353+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.25s           2026-10-20T13:21:38
+================================================================================
+[2026-10-20T13:22:21.729+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.25s           2026-10-20T13:22:08
+================================================================================
+[2026-10-20T13:22:52.181+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.26s           2026-10-20T13:22:39
+================================================================================
+[2026-10-20T13:23:22.503+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.31s           2026-10-20T13:23:09
+================================================================================
+[2026-10-20T13:23:27.554+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:23:27.561+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:23:52.961+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.32s           2026-10-20T13:23:40
+================================================================================
+[2026-10-20T13:24:23.303+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:24:10
+================================================================================
+[2026-10-20T13:24:53.723+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.41s           2026-10-20T13:24:40
+================================================================================
+[2026-10-20T13:25:24.201+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.31s           2026-10-20T13:25:11
+================================================================================
+[2026-10-20T13:25:54.503+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.27s           2026-10-20T13:25:41
+================================================================================
+[2026-10-20T13:26:25.017+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.26s           2026-10-20T13:26:11
+================================================================================
+[2026-10-20T13:26:55.315+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.29s           2026-10-20T13:26:42
+================================================================================
+[2026-10-20T13:27:25.845+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.31s           2026-10-20T13:27:12
+================================================================================
+[2026-10-20T13:27:56.149+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.33s           2026-10-20T13:27:43
+================================================================================
+[2026-10-20T13:28:26.728+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.26s           2026-10-20T13:28:13
+================================================================================
+[2026-10-20T13:28:27.738+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:28:27.747+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:28:57.263+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.31s           2026-10-20T13:28:44
+================================================================================
+[2026-10-20T13:29:27.566+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.32s           2026-10-20T13:29:14
+================================================================================
+[2026-10-20T13:29:58.120+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.30s           2026-10-20T13:29:45
+================================================================================
+[2026-10-20T13:30:28.626+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:30:15
+================================================================================
+[2026-10-20T13:30:59.128+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.25s           2026-10-20T13:30:46
+================================================================================
+[2026-10-20T13:31:29.429+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:31:16
+================================================================================
+[2026-10-20T13:31:59.904+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:31:46
+================================================================================
+[2026-10-20T13:32:30.182+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.21s           2026-10-20T13:32:17
+================================================================================
+[2026-10-20T13:33:00.628+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:32:47
+================================================================================
+[2026-10-20T13:33:27.997+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:33:28.004+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:33:31.048+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:33:18
+================================================================================
+[2026-10-20T13:34:01.364+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.28s           2026-10-20T13:33:48
+================================================================================
+[2026-10-20T13:34:31.922+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.25s           2026-10-20T13:34:18
+================================================================================
+[2026-10-20T13:35:02.238+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:34:49
+================================================================================
+[2026-10-20T13:35:32.729+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:35:19
+================================================================================
+[2026-10-20T13:36:03.051+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.22s           2026-10-20T13:35:50
+================================================================================
+[2026-10-20T13:36:33.539+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:36:20
+================================================================================
+[2026-10-20T13:37:03.897+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.22s           2026-10-20T13:36:50
+================================================================================
+[2026-10-20T13:37:34.349+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.22s           2026-10-20T13:37:21
+================================================================================
+[2026-10-20T13:38:04.829+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.23s           2026-10-20T13:37:51
+================================================================================
+[2026-10-20T13:38:28.132+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-10-20T13:38:28.138+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2026-10-20T13:38:35.237+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.22s           2026-10-20T13:38:22
+================================================================================
+[2026-10-20T13:39:05.686+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:38:52
+================================================================================
+[2026-10-20T13:39:36.111+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.27s           2026-10-20T13:39:23
+================================================================================
+[2026-10-20T13:40:06.507+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:39:53
+================================================================================
+[2026-10-20T13:40:36.896+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/banking_pipeline.py                           1           0  0.24s           2026-10-20T13:40:23
+================================================================================
