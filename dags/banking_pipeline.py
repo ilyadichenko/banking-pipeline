@@ -3,6 +3,7 @@ from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
 import psycopg2
 import random
+import os
 
 default_args = {
     'owner': 'ilya',
@@ -10,14 +11,16 @@ default_args = {
     'retry_delay': timedelta(minutes=5)
 }
 
+DB_CONFIG = {
+    'host': os.getenv("POSTGRES_HOST", "postgres"),
+    'port': os.getenv("POSTGRES_PORT", 5432),
+    'database': os.getenv("POSTGRES_DB", "banking_raw"),
+    'user': os.getenv("POSTGRES_USER", "admin"),
+    'password': os.getenv("POSTGRES_PASSWORD", "admin123")
+}
+
 def load_transactions():
-    conn = psycopg2.connect(
-        host="postgres",
-        port=5432,
-        database="banking_raw",
-        user="admin",
-        password="admin123"
-    )
+    conn = psycopg2.connect(**DB_CONFIG)
     cur = conn.cursor()
     
     categories = ['transfer', 'payment', 'withdrawal', 'deposit', 'refund']
@@ -45,13 +48,7 @@ def load_transactions():
     print(f"✅ Загружено 1000 новых транзакций")
 
 def check_anomalies():
-    conn = psycopg2.connect(
-        host="postgres",
-        port=5432,
-        database="banking_raw",
-        user="admin",
-        password="admin123"
-    )
+    conn = psycopg2.connect(**DB_CONFIG)
     cur = conn.cursor()
     
     cur.execute("""

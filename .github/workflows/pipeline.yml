@@ -1,0 +1,44 @@
+name: Banking Pipeline CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install psycopg2-binary
+
+    - name: Lint Python code
+      run: |
+        pip install flake8
+        flake8 data/generate_data.py --max-line-length=100 || true
+        flake8 dags/banking_pipeline.py --max-line-length=100 || true
+
+    - name: Login to Docker Hub
+      uses: docker/login-action@v2
+      with:
+        username: ${{ secrets.DOCKERHUB_USERNAME }}
+        password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+    - name: Build and push Docker image
+      uses: docker/build-push-action@v4
+      with:
+        context: .
+        push: true
+        tags: |
+          ilyadichenko/banking-etl:latest
+          ilyadichenko/banking-etl:${{ github.sha }}
