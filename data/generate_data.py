@@ -9,7 +9,7 @@ conn = psycopg2.connect(
     port=os.getenv("POSTGRES_PORT", 5432),
     database=os.getenv("POSTGRES_DB", "banking_raw"),
     user=os.getenv("POSTGRES_USER", "admin"),
-    password=os.getenv("POSTGRES_PASSWORD", "admin123")
+    password=os.getenv("POSTGRES_PASSWORD")
 )
 cur = conn.cursor()
 
